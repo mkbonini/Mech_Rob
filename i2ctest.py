@@ -5,7 +5,7 @@ import time
 
 bus = smbus.SMBus(1)
 
-DEVICE_ADDRESS = 04x54
+DEVICE_ADDRESS = 4x50
 
 
 while True:
